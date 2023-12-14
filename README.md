@@ -1,3 +1,5 @@
+This is a new line in this file
+
 Instructions
 
 Step 1: Create a new repository on your Github account named "repo-exercise". Ensure that "Add a README file" is selected.
